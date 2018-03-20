@@ -1,2 +1,6 @@
 iniciar um projeto: npm init -y
 dependencias iniciais mpack: npm i --save-dev webpack@1.14.0 webpack-dev-server@1.16.2 (so precisa em dev)
+retirado do package.json "test": "echo \"Error: no test specified\" && exit 1"
+atualiza brownser --inline --hot
+npm run dev para criar a aplicação
+para gerar o bundle .\node_modules\.bin\webpack
